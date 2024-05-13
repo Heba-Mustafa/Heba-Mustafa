@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Heba Mustafa, an enthusiastic web developer from Egypt, with a passion for creating meaningful and innovative projects. My coding journey started by joining the College of Computer Science, and I've continued to explore various technologies. After graduation, I've enrolled in the MEARN stack program at ITI, deepening my expertise in React, Angular, MongoDB, Express.js, and Node.js, and I've graduated from it in April 2024.
-### About Me 
+### 🙋‍♀️ About Me 
 <li>Bachelor's degree in Computer Science (GPA 3.8/4).</li>
 <li>ITI Diploma in web development.</li>
 
